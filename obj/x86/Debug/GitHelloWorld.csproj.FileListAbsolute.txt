@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\GitHelloWorld\GitHelloWorld\bin\Debug\GitHelloWorld.exe
+C:\Users\Administrator\Desktop\GitHelloWorld\GitHelloWorld\bin\Debug\GitHelloWorld.pdb
+C:\Users\Administrator\Desktop\GitHelloWorld\GitHelloWorld\obj\x86\Debug\GitHelloWorld.Form1.resources
+C:\Users\Administrator\Desktop\GitHelloWorld\GitHelloWorld\obj\x86\Debug\GitHelloWorld.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GitHelloWorld\GitHelloWorld\obj\x86\Debug\GitHelloWorld.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GitHelloWorld\GitHelloWorld\obj\x86\Debug\GitHelloWorld.exe
+C:\Users\Administrator\Desktop\GitHelloWorld\GitHelloWorld\obj\x86\Debug\GitHelloWorld.pdb
